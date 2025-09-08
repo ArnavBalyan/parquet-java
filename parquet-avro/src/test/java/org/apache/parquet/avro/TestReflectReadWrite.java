@@ -187,7 +187,7 @@ public class TestReflectReadWrite {
     public boolean myboolean;
     public byte mybyte;
     public short myshort;
-    // no char until https://issues.apache.org/jira/browse/AVRO-1458 is fixed
+    // no char until https://issues.apache.org/jira/browse /AVRO-1458 is fixed
     public int myint;
     public long mylong;
     public float myfloat;
